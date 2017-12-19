@@ -4,11 +4,18 @@
 *.SUNet
 *.pyc
 
+.idea/*
+
+data/*
 
 examples/checkpoints/*
+examples/data/*
 
 examples/chatbot/processed/*
 examples/chatbot/checkpoints/*
 examples/chatbot/data_analysis.py
 
 assignments/chatbot/processed/*
+
+*.png
+*.jpg
